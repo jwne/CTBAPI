@@ -1,0 +1,4 @@
+name: CTBAPI
+version: ${project.version}
+main: com.craftthatblock.ctbapi.CTBAPI
+author: CraftThatBlock
